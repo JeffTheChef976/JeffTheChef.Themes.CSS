@@ -1,7 +1,7 @@
 :root {
   /*Dark mode*/
   --dark-bg: transparent;
-  --dark-layer1: 255,255,255;
+  --dark-layer1: oklch(19% 0 0 / 0.4); 
   --dark-flyout: rgba(30,30,30);
   --dark-select: 255,255,255;
   --dark-accent: rgb(76, 194, 255);
